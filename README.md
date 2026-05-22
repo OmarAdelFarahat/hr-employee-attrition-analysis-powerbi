@@ -39,6 +39,26 @@ Employee attrition negatively impacts organizational stability, productivity, an
 
 ---
 
+## Dataset
+
+This project uses the IBM HR Analytics Employee Attrition & Performance dataset available on Kaggle for educational and portfolio purposes.
+
+Dataset Source:
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+The dataset contains mock employee information including:
+
+- Employee demographics
+- Departments and job roles
+- Salary and income data
+- Overtime and business travel
+- Satisfaction metrics
+- Employee attrition status
+
+Each row represents an individual employee record used for workforce analytics and attrition analysis.
+
+---
+
 ## Technologies Used
 
 | Category | Tools |
