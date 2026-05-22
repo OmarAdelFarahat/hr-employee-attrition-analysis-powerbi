@@ -19,17 +19,17 @@ End-to-end HR analytics case study built in Power BI to analyze employee attriti
 ---
 
 ### Attrition Analysis
-![Attrition Analysis](images/attrition-analysis.png)
+![Attrition Analysis](images/attrition analysis.png)
 
 ---
 
 ### Demographics Analysis
-![Demographics Analysis](images/demographics-analysis.png)
+![Demographics Analysis](images/demographics analysis.png)
 
 ---
 
 ### Satisfaction Analysis
-![Satisfaction Analysis](images/satisfaction-analysis.png)
+![Satisfaction Analysis](images/satisfaction analysis.png)
 
 ---
 
