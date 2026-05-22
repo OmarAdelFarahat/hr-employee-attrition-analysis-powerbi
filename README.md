@@ -13,7 +13,23 @@ End-to-end HR analytics case study built in Power BI to analyze employee attriti
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+### Workforce Overview
+![Dashboard Overview](images/dashboard-overview.png)
+
+---
+
+### Attrition Analysis
+![Attrition Analysis](images/attrition-analysis.png)
+
+---
+
+### Demographics Analysis
+![Demographics Analysis](images/demographics-analysis.png)
+
+---
+
+### Satisfaction Analysis
+![Satisfaction Analysis](images/satisfaction-analysis.png)
 
 ---
 
@@ -138,8 +154,18 @@ InactiveEmployees = CALCULATE([TotalEmployees], FactEmployee[Attrition] = "Yes")
 hr-employee-attrition-analysis-powerbi/
 │
 ├── data/
+│   ├── WA_Fn-UseC_-HR-Employee-Attrition.csv
+│   └── WA_Fn-UseC_-HR-Employee-Attrition.xlsx
+│
 ├── images/
+│   ├── dashboard-overview.png
+│   ├── attrition-analysis.png
+│   ├── demographics-analysis.png
+│   └── satisfaction-analysis.png
+│
 ├── presentation/
+│   └── TP-Employee-Attrition-Presentation.pptx
+│
 ├── Employee-Attrition-Dashboard.pbix
 └── README.md
 ```
