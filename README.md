@@ -184,7 +184,7 @@ hr-employee-attrition-analysis-powerbi/
 │   └── satisfaction-analysis.png
 │
 ├── presentation/
-│   └── TP-Employee-Attrition-Presentation.pptx
+│   └── HR-Attrition-Analytics-Presentation.pptx
 │
 ├── Employee-Attrition-Dashboard.pbix
 └── README.md
